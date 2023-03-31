@@ -1,4 +1,4 @@
-# Hi there, I'm Ismail Cerit 👋
+# Hi there, I'm İsmail Cerit 👋
 
 I'm a digital marketing and software expert currently learning Django. 
 
